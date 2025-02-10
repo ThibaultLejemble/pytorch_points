@@ -1,0 +1,7 @@
+.vscode/
+build/
+test/__pycache__/
+torch_points.egg-info/
+torch_points/__pycache__/
+torch_points/torch_points_csrc.so
+venv/
